@@ -1,4 +1,4 @@
-# Esta es el Proyecto de la Lampara Inteligenta
+# Esta es el Proyecto de la Lampara Inteligente
 *(el autor de esta proyecto es Alex Gyver, nuestros hacemos solo mejorado y traducido)*
 
 
