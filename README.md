@@ -1,12 +1,12 @@
-##Esta es el proyecto por la Lampara inteliogenta
-(el autor de esta  proyecto es Alex Gyver, nuestros hacemos solo copiado, mejorado y traducido)
+## Esta es el proyecto por la Lampara inteliogenta
+### el autor de esta proyecto es Alex Gyver, nuestros hacemos solo copiado, mejorado y traducido
 
 
 
-1. Las partes que necesito para empresar esta proyecto:
-  1. El cuerpo:
-    1. Lampara de Leroy Merlin por sobre 8 euro (foto 1)
-    2. Tubo fontanera D50 1m  por sobre 5 euro (foto 2)
+ - Las partes que necesito para empresar esta proyecto:
+   - El cuerpo:
+    - Lampara de Leroy Merlin por sobre 8 euro (foto 1)
+    - Tubo fontanera D50 1m  por sobre 5 euro (foto 2)
     3. Tapón reducción 32/40 por sobre 1 euro (foto 3)
     4. Tapón 32 por sobre 1 euro (foto 3)
     5. Pegamento epoxi por sobre 5 euro (foto 4)
