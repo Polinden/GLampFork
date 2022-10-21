@@ -15,7 +15,7 @@
     - WeMos D1 microcontroler (foto 5)
     - Módulo de botón táctil TTP223 (foto 6)
     - Condensador 470mF >10V 
-    - Panal de pixeles SMD Flexible LED 16x16
+    - Panel de pixeles SMD Flexible LED 16x16
   - Los instrumentos:
     - Soldador
     - Taladradora
