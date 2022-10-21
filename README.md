@@ -1,10 +1,10 @@
 ## Esta es el Proyecto de la Lampara Inteligenta
-#### (el autor de esta proyecto es Alex Gyver, nuestros hacemos solo mejorado y traducido)
+### (el autor de esta proyecto es Alex Gyver, nuestros hacemos solo mejorado y traducido)
 
 
 
 ## Las partes que necesito para empresar esta proyecto:
-   - El cuerpo:
+  - El cuerpo:
     - Lampara de Leroy Merlin por sobre 8 euro (foto 1)
     - Tubo fontanera D50 1m  por sobre 5 euro (foto 2)
     - Tapón reducción 32/40 por sobre 1 euro (foto 3)
