@@ -27,3 +27,9 @@
     - USB cable para conexión entera el ordenador y WeMos (el tipo depende de WeMos y ordenador, para mi estuve tipo-C)
   - Un poco conocimiento que a programar
 
+Foto 1
+<img src="1.jpg">
+Foto 2
+<img src="2.jpg">
+Foto 3
+<img src="3.jpg">
