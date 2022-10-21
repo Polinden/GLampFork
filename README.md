@@ -11,7 +11,7 @@
     - Tapón 32 por sobre 1 euro (foto 2)
     - Pegamento epoxi por sobre 5 euro (foto 3)
   - El cables D0.15 sobro 1 m por sobre 1 euro
-  - Los partes electrónicas (todos de aliexpres por sobre 20 evro, el listo debajo):
+  - Los partes electrónicas (todos de aliexpres por sobre 20 evro, el listo esta debajo):
     - WeMos D1 microcontroler (foto 5)
     - Módulo de botón táctil TTP223 (foto 6)
     - Condensador 470mF >10V 
