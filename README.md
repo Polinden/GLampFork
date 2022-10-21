@@ -28,8 +28,8 @@
   - Un poco conocimiento que a programar
 
 Foto 1
-<img src="1.jpg" width=80/>
+<img src="1.jpg" width=140/>
 Foto 2
-<img src="2.jpg" width=80/>
+<img src="2.jpg" width=140/>
 Foto 3
-<img src="3.jpg" width=80/>
+<img src="3.jpg" width=140/>
