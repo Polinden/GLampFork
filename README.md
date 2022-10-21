@@ -1,5 +1,5 @@
 # Esta es el Proyecto de la Lampara Inteligenta
-* (el autor de esta proyecto es Alex Gyver, nuestros hacemos solo mejorado y traducido) *
+*(el autor de esta proyecto es Alex Gyver, nuestros hacemos solo mejorado y traducido)*
 
 
 
