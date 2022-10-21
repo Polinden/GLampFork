@@ -1,5 +1,5 @@
-## Esta es el Proyecto de la Lampara Inteligenta
-### (el autor de esta proyecto es Alex Gyver, nuestros hacemos solo mejorado y traducido)
+# Esta es el Proyecto de la Lampara Inteligenta
+* (el autor de esta proyecto es Alex Gyver, nuestros hacemos solo mejorado y traducido) *
 
 
 
@@ -21,7 +21,7 @@
     - Taladradora
     - Sierra
     - Papel de lija
-  - EL ordenador y software:
+  - El ordenador y software:
     - Mac/Linux/Windows ordenador
     - Arduino software (https://www.arduino.cc)
     - USB cable para conexión entera el ordenador y WeMos (el tipo depende de WeMos y ordenador, para mi estuve tipo-C)
