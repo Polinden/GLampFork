@@ -7,9 +7,9 @@
   - El cuerpo:
     - Lampara de Leroy Merlin por sobre 8 euro (foto 1)
     - Tubo fontanera D50 1m  por sobre 5 euro (foto 2)
-    - Tapón reducción 32/40 por sobre 1 euro (foto 3)
-    - Tapón 32 por sobre 1 euro (foto 3)
-    - Pegamento epoxi por sobre 5 euro (foto 4)
+    - Tapón reducción 32/40 por sobre 1 euro (foto 2)
+    - Tapón 32 por sobre 1 euro (foto 2)
+    - Pegamento epoxi por sobre 5 euro (foto 3)
   - El cables D0.15 sobro 1 m por sobre 1 euro
   - Los partes electrónicas (todos de aliexpres por sobre 20 evro, listo 1):
     - WeMos D1 microcontroler (foto 5)
