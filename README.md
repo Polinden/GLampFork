@@ -3,7 +3,7 @@
 
 
 
- - Las partes que necesito para empresar esta proyecto:
+## Las partes que necesito para empresar esta proyecto:
    - El cuerpo:
     - Lampara de Leroy Merlin por sobre 8 euro (foto 1)
     - Tubo fontanera D50 1m  por sobre 5 euro (foto 2)
