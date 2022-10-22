@@ -3,18 +3,18 @@
 
 
 
-## Las partes que necesito para empresar esta proyecto:
+## Las partes que necesitas para empresar esta proyecto:
   - El cuerpo:
     - Lampara de Leroy Merlin por sobre 8 euro (foto 1)
-    - Tubo fontanera D50 1m  por sobre 1 euro (foto 2)
+    - Tubo fontanera d50 1m por sobre 1 euro (foto 2)
     - Tapón reducción 32/40 por sobre 1 euro (foto 2)
     - Tapón 32 por sobre 1 euro (foto 2)
     - Pegamento epoxi por sobre 5 euro (foto 3)
-  - El cables D0.15 sobro 1 m por sobre 1 euro
-  - Los partes electrónicas (todos de aliexpres por sobre 20 evro, el listo esta debajo):
+  - El cable d0.15 sobro 1 m por sobre 1 euro
+  - Los partes electrónicas (todos de aliexpres por sobre 20 euro, el listo esta debajo):
     - WeMos D1 microcontroler (foto 5)
     - Módulo de botón táctil TTP223 (foto 6)
-    - Condensador 470mF >10V 
+    - Condensador electrolito 470mF >5V 
     - Panel de pixeles SMD Flexible LED 16x16
   - Los instrumentos:
     - Soldador
