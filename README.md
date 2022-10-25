@@ -11,10 +11,10 @@
     - Pegamento epoxi por sobre 5 euro (foto 3)
   - El cable d0.15 sobro 1 m por sobre 1 euro
   - Las partes electrónicas (todas de aliexpress por de ~ 30 euros, la lista está a continuación):
-    - WeMos D1 microcontroler (en el listo)
-    - Módulo de botón táctil TTP223 (en el listo)
+    - WeMos D1 microcontroler (ver lista)
+    - Módulo de botón táctil TTP223 (ver lista)
     - Condensador electrolito 470mF >5V 
-    - Panel de pixeles SMD Flexible LED 16x16 (en el listo)
+    - Panel de pixeles SMD Flexible LED 16x16 (ver lista)
   - Los instrumentos:
     - Soldador
     - Taladradora
