@@ -9,7 +9,7 @@
     - Tapón reducción 32/40 por sobre 1 euro (foto 2)
     - Tapón 32 por sobre 1 euro (foto 2)
     - Pegamento epoxi por sobre 5 euro (foto 3)
-  - El cable d0.15 sobro 1 m por sobre 1 euro
+  - El cable d0.15 de 1 m por aproximadamente 1 euro
   - Las partes electrónicas (todas de aliexpress por de ~ 30 euros, la lista está a continuación):
     - WeMos D1 microcontroler (ver lista)
     - Módulo de botón táctil TTP223 (ver lista)
